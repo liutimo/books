@@ -8,7 +8,7 @@ NUMA Nonuniform-Memory-Access architecture
 
 
 
-![1554984055753](1554984055753.png)
+![1554984055753](images/1554984055753.png)
 
 如图3-2所示。
 
